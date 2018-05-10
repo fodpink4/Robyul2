@@ -20,7 +20,7 @@
 #  name = "github.com/x/y"
 #  version = "2.4.0"
 [metadata.heroku]
-  root-package = "github.com/heroku/heroku-buildpack-go"
+  root-package = "github.com/heroku/go"
 
 [[constraint]]
   name = "cloud.google.com/go"
